@@ -1,6 +1,10 @@
 typedef int Rank;
+// You must know the pointer is a var that signs 
+// a ListNode<T> room address.
+// 1.Pointer
 #define ListNodePos(T) ListNode<T>*	//ListNodePos(T) is an address with ListNode<T> size
 
+// 2.ListNode
 template <typename T> struct ListNode {
 	// all data contained
 	T data;	
@@ -48,6 +52,21 @@ template <typename T> void List<T>::init() {
 	trailer->pred = header;
 	trailer->succ = nullptr;
 }
+
+template <typename T> int List<T>::clear() {
+	
+}
+
+// A destructor is a special member function that is called when the lifetime of an object ends. 
+// The purpose of the destructor is to free the resources that the object may have acquired during its lifetime. 
+template <typename T> List<T>::~List()
+{
+	clear();
+	delete header;
+	delete trailer;
+}
+
+
 
 
 
