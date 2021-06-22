@@ -31,15 +31,15 @@ public:
 	}
 
 	// constructor
-	List()
+	List<T>()
 	{
 		init();
 	}
-	List(List<T> const &L);
-	List(List<T> const &L, int r, int n);
+	List<T>(List<T> const &L);
+	List<T>(List<T> const &L, int r, int n);
 
 	// deconstructor
-	~List();
+	~List<T>();
 
 	// method
 	T remove(ListNode<T> *p);
@@ -52,6 +52,7 @@ public:
 };
 
 // means of combination
+// construction
 template <typename T>
 void List<T>::init()
 {

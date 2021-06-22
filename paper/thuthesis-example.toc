@@ -1,0 +1,31 @@
+\contentsline {chapter}{摘\hskip 1em\relax 要}{I}{section*.9}%
+\contentsline {chapter}{目\hskip 1em\relax 录}{II}{section*.11}%
+\contentsline {chapter}{插图和附表清单}{III}{section*.13}%
+\contentsline {chapter}{符号和缩略语说明}{IV}{section*.15}%
+\contentsline {chapter}{\numberline {第1章}引言}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {第2章}搜索树}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}指针与地址}{2}{section.2.1}%
+\contentsline {section}{\numberline {2.2}树与链表}{3}{section.2.2}%
+\contentsline {section}{\numberline {2.3}二叉树与二叉搜索树}{3}{section.2.3}%
+\contentsline {section}{\numberline {2.4}二叉树的遍历与线索二叉树}{4}{section.2.4}%
+\contentsline {section}{\numberline {2.5}自平衡二叉搜索树，Red-Black树， AVL树}{5}{section.2.5}%
+\contentsline {chapter}{\numberline {第3章}数据库中的树}{7}{chapter.3}%
+\contentsline {section}{\numberline {3.1}四叉树，八叉树}{7}{section.3.1}%
+\contentsline {section}{\numberline {3.2}B树，B+树，B*树}{7}{section.3.2}%
+\contentsline {chapter}{\numberline {第4章}机器学习中的树}{9}{chapter.4}%
+\contentsline {section}{\numberline {4.1}决策树与ID3}{9}{section.4.1}%
+\contentsline {section}{\numberline {4.2}树的集成学习}{10}{section.4.2}%
+\contentsline {section}{\numberline {4.3}随机森林}{10}{section.4.3}%
+\setcounter {tocdepth}{0}
+\setcounter {tocdepth}{0}
+\contentsline {chapter}{\numberline {附录 A}补充内容}{12}{appendix.A}%
+\contentsline {section}{\numberline {A.1}图表示例}{12}{section.A.1}%
+\contentsline {subsection}{\numberline {A.1.1}图}{12}{subsection.A.1.1}%
+\contentsline {subsection}{\numberline {A.1.2}表格}{12}{subsection.A.1.2}%
+\contentsline {section}{\numberline {A.2}数学公式}{13}{section.A.2}%
+\contentsline {chapter}{致\hskip 1em\relax 谢}{14}{section*.19}%
+\contentsline {chapter}{声\hspace {1em}明}{15}{section*.21}%
+\contentsline {chapter}{个人简历、在学期间完成的相关学术成果}{16}{section*.23}%
+\contentsline {chapter}{指导教师学术评语}{17}{appendix*.29}%
+\contentsline {chapter}{答辩委员会决议书}{18}{appendix*.30}%
+\contentsfinish 
